@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.vemcount.login.twa",
-    "sha256_cert_fingerprints": ["15:75:E1:C8:EC:96:22:9A:7F:C0:2F:55:CA:B3:E5:C5:FC:5A:B1:F7:5E:25:7A:12:58:52:A5:31:6C:23:46:CC"]
+    "sha256_cert_fingerprints": ["F3:7A:D2:E2:09:EB:BE:E5:4A:19:6A:64:44:83:10:0A:87:CC:F3:36:83:CA:EC:2F:63:3C:0A:42:10:7C:15:95"]
   }
 }]
