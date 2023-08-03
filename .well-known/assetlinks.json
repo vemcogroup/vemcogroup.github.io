@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vemcount.login.twa",
+    "sha256_cert_fingerprints": ["15:75:E1:C8:EC:96:22:9A:7F:C0:2F:55:CA:B3:E5:C5:FC:5A:B1:F7:5E:25:7A:12:58:52:A5:31:6C:23:46:CC"]
+  }
+}]
